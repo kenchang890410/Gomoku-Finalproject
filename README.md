@@ -24,3 +24,8 @@ demo.mp4 是全部功能的展示影片
 # Demo
 
 ![image](https://github.com/CHANGCHINGCHUAN/Gomoku-Finalproject/blob/main/demo.gif)
+
+# 音樂來源
+[Itzhak Perlman - Pablo de Sarasate, Zigeunerweisen Op.20](https://www.youtube.com/watch?v=ufIlOXXMqs0&t=2s)
+[Blue Archive Gregorio bgm](https://www.youtube.com/watch?v=wrukexIZFxk)
+[ブルーアーカイブ Blue Archive OST 23. Party Time](https://www.youtube.com/watch?v=XC0UwqE13U8)
