@@ -23,4 +23,4 @@ demo.mp4 是全部功能的展示影片
 
 # Demo
 
-![image]([picture or gif url](https://github.com/CHANGCHINGCHUAN/Gomoku-Finalproject/blob/main/demo.gif)https://github.com/CHANGCHINGCHUAN/Gomoku-Finalproject/blob/main/demo.gif)
+![image](https://github.com/CHANGCHINGCHUAN/Gomoku-Finalproject/blob/main/demo.gif)https://github.com/CHANGCHINGCHUAN/Gomoku-Finalproject/blob/main/demo.gif)
