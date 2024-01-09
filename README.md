@@ -20,3 +20,7 @@ alpha-beta pruning 演算法在 startplay.java 中撰寫，
 並未考慮連線是否連接到邊界或其他五子棋中較優勢的步數計算，這是未來可以改進的點。
 
 demo.mp4 是全部功能的展示影片
+
+# Demo
+
+![image]([picture or gif url](https://github.com/CHANGCHINGCHUAN/Gomoku-Finalproject/blob/main/demo.gif)https://github.com/CHANGCHINGCHUAN/Gomoku-Finalproject/blob/main/demo.gif)
